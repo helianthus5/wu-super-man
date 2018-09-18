@@ -1,0 +1,14 @@
+{
+  "name": "wu-super-man",
+  "version": "1.0.0",
+  "description": "a test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "wu"
+  ],
+  "author": "xiaochaoren",
+  "license": "MIT"
+}
